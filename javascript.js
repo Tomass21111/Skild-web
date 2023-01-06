@@ -10,7 +10,6 @@ function menu() {
 		x.style.height = "244px";
 	}
 }
-// https://alvarotrigo.com/blog/css-animations-scroll/
 function reveal() {
 	var reveals = document.querySelectorAll(".reveal");
 	for (var i = 0; i < reveals.length; i++) {

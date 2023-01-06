@@ -109,7 +109,7 @@ a {
 	padding: 35px;
 }
 .velkyNadpis {
-    background: url(obr1.jpg); 
+    background: url(obrázky/obr1.jpg); 
     background-size: cover;
     padding: 50px 0px;
 	margin: 0px; /*blbne*/
@@ -193,7 +193,7 @@ a {
     font-size: 4.5vw;
 }*/
 .hlavniObrazek {
-	background: url(obr1.jpg);
+	background: url(obrázky/obr1.jpg);
 	background-size: cover;
 	height: 45vw;
 	display: flex;
@@ -206,7 +206,7 @@ a {
 	margin: 0px 10px;
 }
 .doplnujiciObrazek {
-	background: url(obr2.jpg);
+	background: url(obrázky/obr2.jpg);
 	background-size: cover;
 	height: 39vw;
 	display: flex;
